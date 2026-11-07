@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### This is another heading 
+### About me
 
 
 <!--
